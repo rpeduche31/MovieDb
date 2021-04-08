@@ -1,0 +1,6 @@
+module Pods_InvestagramsMovieDB_InvestagramsMovieDBTests {
+  umbrella header "Pods-InvestagramsMovieDB-InvestagramsMovieDBTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
